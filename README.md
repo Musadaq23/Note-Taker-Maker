@@ -5,11 +5,12 @@
 a note taker application which allows you to take notes and save it.
 
 ## Installation
-https://note-taker-maker.herokuapp.com/
+
+https://note-taker-maker.herokuapp.com/notes
 
 ## Usage
 
-![Website Screenshot](./Develop/public/assets/noteTaker1.PNG)
+![Website Screenshot](./public/assets/notetaker1.PNG)
 
 ## Contributing
 
